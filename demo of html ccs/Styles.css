@@ -1,0 +1,27 @@
+body {
+     background-color: darksalmon;
+}
+#container {
+    background-color: blanchedalmond;
+    width: 950px;
+    margin: 20px;
+    padding: 20px;
+    border: 2px salmon;
+    border-radius: 20px;
+}
+
+Header {
+    height: 250px;
+}
+header {
+    font-size: 50px;
+    text-align: center;
+    line-height: 250px;
+}
+nav a:hover {
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+}
