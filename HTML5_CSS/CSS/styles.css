@@ -1,0 +1,51 @@
+body { 
+  background-color: darksalmon;  
+}
+#container {
+    background-color: blanchedalmond;
+    width: 1050px;
+    margin: 30px auto;
+    border: 2px;
+    padding: 60px;
+    border-radius: 40px;
+}
+header {text-align: center; }
+
+ header hr {  
+color: midnightblue;
+font-size: 30px; }
+ nav a { 
+    color: midnightblue;
+    font-size: 25px;
+    margin: 10px;}
+nav a:hover {
+    color: lightblue;
+    text-decoration: wavy;
+}
+main {
+    margin: 15px auto;
+    border: 2px dotted midnightblue;
+    border-radius: 25px;
+    padding: 20px;
+
+}
+
+main h2 {
+    color: darkblue;
+    text-align: center;
+    size: 2cm;}
+
+ p {color: darkslateblue;}
+
+ main img {
+    display: block;
+    margin: 15px auto;
+    width: 450px; 
+}
+
+footer { 
+    padding: 40px;
+    text-align: center;
+    border-top: 4px solid midnightblue; 
+}
+
