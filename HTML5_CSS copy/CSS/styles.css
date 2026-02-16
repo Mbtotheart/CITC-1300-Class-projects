@@ -1,0 +1,17 @@
+body {
+    background-color: lightpink}
+
+#container {  
+background-color: palevioletred;
+width: 70%;
+margin: 20px;
+padding: 20px;
+border: 4px solid darkred;
+border-radius: 30px;
+}
+image {
+   display: round;
+   margin: auto;
+   width: 100%;
+
+}
