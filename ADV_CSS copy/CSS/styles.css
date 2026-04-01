@@ -1,0 +1,34 @@
+body {
+    background-color: lightpink}
+
+#container {  
+background-color: #f27591;
+width: 70%;
+margin: 20px;
+padding: 20px;
+border: 4px solid #bf0f50;
+border-radius: 30px;
+}
+img {display :block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+a:hover {
+    color: darkblue;
+    text-decoration: underline; 
+}
+ header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    border: dotted #bf0f50;
+    border-radius: 30px;
+ }
+
+ h2 {font-family: 'Courier New', Courier, monospace;
+color: #bf0f50;}
+h3 { 
+    font-family: 'Courier New', Courier, monospace;
+    color: #d9072d;
+}
