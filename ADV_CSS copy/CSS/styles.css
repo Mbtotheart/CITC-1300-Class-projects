@@ -1,3 +1,4 @@
+/* Global Styles */
 body {
     background-color: rgb(255, 221, 226)}
 
@@ -68,7 +69,7 @@ iframe {display: block;
     margin: 0 auto;
     width: 75%;
     border: 5px solid #810834;
-    padding: 20x;}
+    padding: 20px;}
 
 .multi_col {display: flex;}
 
@@ -101,7 +102,7 @@ text-align: center;}
     box-shadow: 2px 2px 5px #810834;
 }
 
-
+ /* Responsive adjustments for phones */
 
 
 
